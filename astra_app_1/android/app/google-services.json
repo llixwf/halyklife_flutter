@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513977730505",
+    "project_id": "bankapp-cdcd2",
+    "storage_bucket": "bankapp-cdcd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513977730505:android:bd015d057e636884515418",
+        "android_client_info": {
+          "package_name": "com.example.astra_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUCQrde1xKF3iyzS0_EF0JeFHaqACKx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
