@@ -27,7 +27,7 @@ void main() async {
 
   // WidgetsFlutterBinding.ensureInitialized();
   // try {
-  //   await Firebase.initializeApp();
+  //   await Firebase.initialize App();
   //   print('Firebase подключён успешно!');
   // } catch (e) {
   //   print('Ошибка подключения Firebase: $e');
