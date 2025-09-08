@@ -18,16 +18,12 @@ A Flutter application for Astra Lombard, offering a seamless and user-friendly e
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/llixwf/halyklife_flutter.git```
+git clone https://github.com/llixwf/halyklife_flutter.git
 
-### 2. Install dependencies:
-flutter pub get
-
-### 3. Run the app
-flutter run
 
 Technologies 🛠️
 - Flutter & Dart
 - Firebase (Authentication, Firestore)
 - REST APIs for dynamic content
+
 
