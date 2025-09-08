@@ -23,7 +23,9 @@ A Flutter application for Astra Lombard, offering a seamless and user-friendly e
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/llixwf/halyklife_flutter.git
+
 flutter pub get
+
 flutter run
 
 
