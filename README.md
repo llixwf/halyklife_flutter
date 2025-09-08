@@ -13,18 +13,18 @@ A Flutter application for Astra Lombard, offering a seamless and user-friendly e
 - ⚡ **Real-time Updates** – Instant sync with Firebase for smooth user experience.
 
 ---
+## Technologies 🛠️
+- Flutter & Dart
+- Firebase (Authentication, Firestore)
+- REST APIs for dynamic content
 
 ## Getting Started 🏁
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/llixwf/halyklife_flutter.git
+flutter pub get
+flutter run
 
----
-
-Technologies 🛠️
-- Flutter & Dart
-- Firebase (Authentication, Firestore)
-- REST APIs for dynamic content
 
 
