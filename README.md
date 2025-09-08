@@ -20,6 +20,7 @@ A Flutter application for Astra Lombard, offering a seamless and user-friendly e
 ```bash
 git clone https://github.com/llixwf/halyklife_flutter.git
 
+---
 
 Technologies 🛠️
 - Flutter & Dart
