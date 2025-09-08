@@ -1,4 +1,4 @@
-HalykLife Flutter App 🚀
+HalykLife App 🚀
 A Flutter application for Astra Lombard, offering a seamless and user-friendly experience with multiple advanced features.
 Features ✨
 🔍 Smart Search & Automation – Quickly find products and services.
